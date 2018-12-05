@@ -1,0 +1,39 @@
+
+-arch=amd64
+-PIC
+-jetcomponent=15.30
+-jetedition=Evaluation
+-vcode=108181
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\dist\ProyectoAdminBD.jar;*{exe.dir}\dist\lib\AbsoluteLayout.jar;*{exe.dir}\dist\lib\sqljdbc41.jar;*{exe.dir}\dist\lib\sqljdbc42.jar
+-config=JREHome:C:\jet15.3-eval-amd64\bin\..\profile1.8.0_181o\jre
+-config=JETProfile:108181
+-config=JETProfileName:1.8.0_181o
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/Usuario-pc/Desktop/Exe/AgenciaViajes_jetpdb/AgenciaViajes.efs
+-config=MainClass:Views/JframeInicioLoginBD
+-config=VersionInfo:jet-1530-release (eval, en)
+-config=CompatibilityString:OpenJDK version: 1.8.0_181; JET update level: 0; CPU architecture: amd64
+-name=..\..\Documents\NetBeansProjects\ProyectoAdminBD\AgenciaViajes.exe
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:C:\jet15.3-eval-amd64\lib\x86\dummysplash.lib
+C:\jet15.3-eval-amd64\lib\x86\startup-exe-normal.zip
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:dlls=freetype;net;nio;awt;fontmanager component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\reorder.li
+C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\obj.zip
+-Config=RTComponent:XKRN1530108181.dll
+C:\jet15.3-eval-amd64\lib\x86\startup-rtlink.zip
+C:\jet15.3-eval-amd64\lib\x86\import32.lib
+..\..\Downloads\world (1).ico
+C:\jet15.3-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+
+

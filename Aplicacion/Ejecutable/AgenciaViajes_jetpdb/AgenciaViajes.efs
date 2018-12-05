@@ -1,0 +1,11 @@
+1
+"."
+1
+  DIR "dist" "..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist" HIDDEN
+  2
+    DIR "lib" "..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib" HIDDEN
+    3
+      FILE "sqljdbc42.jar" "C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\tmpres\sqljdbc42__3.jar" HIDDEN
+      FILE "sqljdbc41.jar" "C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\tmpres\sqljdbc41__2.jar" HIDDEN
+      FILE "AbsoluteLayout.jar" "C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\tmpres\AbsoluteLayout__1.jar" HIDDEN
+    FILE "ProyectoAdminBD.jar" "C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes_jetpdb\tmpres\ProyectoAdminBD__0.jar" HIDDEN

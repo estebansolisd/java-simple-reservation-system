@@ -1,0 +1,1444 @@
+Excelsior JET v15.3 Evaluation 64-bit (c) Excelsior 1997,2018
+Active Java SE Version 1.8.0_181 (OpenJDK, profile 108181)
+************************  JET v15.3 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes.prj"
+Reading ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/ProyectoAdminBD.jar ...  140 classes
+Reading ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/AbsoluteLayout.jar ...  2 classes
+Reading ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc41.jar ...  314 classes
+Reading ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc42.jar ...  302 classes
+
+Total compilable classes within classpath entries: 758
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/BitacoraControlador.class
+   2/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/ClientesControlador.class
+   3/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/DestinoControlador.class
+   4/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/EmpleadosControlador.class
+   5/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/EncomiendaControlador.class
+   6/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/MantenimientoControlador.class
+   7/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/Reserva_ViajeControlador.class
+   8/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/TransporteControlador.class
+   9/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/UsuarioControlador.class
+  10/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/ViajeControlador.class
+  11/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/WinRegistry.class
+  12/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/ClientesModel.class
+  13/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/Conexion.class
+  14/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/DestinoModel.class
+  15/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/EmpleadosModel.class
+  16/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/EncomiendaModel.class
+  17/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/MantenimientoModel.class
+  18/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/Reserva_ViajeModel.class
+  19/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/TransporteModel.class
+  20/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/UsuarioModel.class
+  21/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/ViajeModel.class
+  22/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$1.class
+  23/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$2.class
+  24/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$3.class
+  25/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$4.class
+  26/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$5.class
+  27/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$6.class
+  28/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$7.class
+  29/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$8.class
+  30/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$9.class
+  31/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD.class
+  32/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$1.class
+  33/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$2.class
+  34/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$3.class
+  35/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$4.class
+  36/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$5.class
+  37/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$6.class
+  38/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$7.class
+  39/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$8.class
+  40/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$9.class
+  41/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD.class
+  42/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$1.class
+  43/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$2.class
+  44/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$3.class
+  45/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$4.class
+  46/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$5.class
+  47/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$6.class
+  48/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$7.class
+  49/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$8.class
+  50/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$9.class
+  51/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD.class
+  52/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$1.class
+  53/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$10.class
+  54/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$2.class
+  55/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$3.class
+  56/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$4.class
+  57/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$5.class
+  58/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$6.class
+  59/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$7.class
+  60/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$8.class
+  61/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$9.class
+  62/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD.class
+  63/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$1.class
+  64/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$2.class
+  65/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$3.class
+  66/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD.class
+  67/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$1.class
+  68/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$2.class
+  69/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$3.class
+  70/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$4.class
+  71/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$5.class
+  72/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$6.class
+  73/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient.class
+  74/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$1.class
+  75/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$10.class
+  76/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$2.class
+  77/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$3.class
+  78/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$4.class
+  79/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$5.class
+  80/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$6.class
+  81/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$7.class
+  82/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$8.class
+  83/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$9.class
+  84/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD.class
+  85/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$1.class
+  86/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$10.class
+  87/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$11.class
+  88/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$12.class
+  89/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$2.class
+  90/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$3.class
+  91/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$4.class
+  92/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$5.class
+  93/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$6.class
+  94/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$7.class
+  95/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$8.class
+  96/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$9.class
+  97/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu.class
+  98/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$1.class
+  99/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$10.class
+ 100/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$2.class
+ 101/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$3.class
+ 102/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$4.class
+ 103/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$5.class
+ 104/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$6.class
+ 105/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$7.class
+ 106/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$8.class
+ 107/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$9.class
+ 108/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD.class
+ 109/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$1.class
+ 110/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$2.class
+ 111/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$3.class
+ 112/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$4.class
+ 113/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$5.class
+ 114/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$6.class
+ 115/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$7.class
+ 116/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$8.class
+ 117/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$9.class
+ 118/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD.class
+ 119/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$1.class
+ 120/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$10.class
+ 121/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$2.class
+ 122/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$3.class
+ 123/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$4.class
+ 124/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$5.class
+ 125/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$6.class
+ 126/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$7.class
+ 127/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$8.class
+ 128/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$9.class
+ 129/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD.class
+ 130/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$1.class
+ 131/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$10.class
+ 132/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$2.class
+ 133/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$3.class
+ 134/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$4.class
+ 135/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$5.class
+ 136/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$6.class
+ 137/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$7.class
+ 138/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$8.class
+ 139/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$9.class
+ 140/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD.class
+ 141/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\AbsoluteLayout.jar:/org/netbeans/lib/awtextra/AbsoluteConstraints.class
+ 142/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\AbsoluteLayout.jar:/org/netbeans/lib/awtextra/AbsoluteLayout.class
+ 143/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityCorrelator$1.class
+ 144/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityCorrelator.class
+ 145/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityId.class
+ 146/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AppDTVImpl$SetValueOp.class
+ 147/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AppDTVImpl.class
+ 148/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ApplicationIntent.class
+ 149/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AsciiFilteredInputStream.class
+ 150/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AsciiFilteredUnicodeInputStream.class
+ 151/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AuthenticationJNI.class
+ 152/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AuthenticationScheme.class
+ 153/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/BaseInputStream.class
+ 154/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ByteArrayOutputStreamToInputStream.class
+ 155/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CacheClear.class
+ 156/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CekTable.class
+ 157/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CekTableEntry.class
+ 158/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CertificateDetails.class
+ 159/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ChronoField.class
+ 160/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Column$1.class
+ 161/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Column.class
+ 162/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ColumnEncryptionSetting.class
+ 163/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ColumnFilter.class
+ 164/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CryptoMetadata.class
+ 165/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DDC$1.class
+ 166/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DDC.class
+ 167/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DLLException.class
+ 168/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV$1.class
+ 169/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV$SendByRPCOp.class
+ 170/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV.class
+ 171/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTVExecuteOp.class
+ 172/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTVImpl.class
+ 173/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypeFilter.class
+ 174/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypes$1.class
+ 175/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypes.class
+ 176/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DateTimeException.class
+ 177/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DateTimeFormatter.class
+ 178/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DescribeParameterEncryptionResultSet1.class
+ 179/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DescribeParameterEncryptionResultSet2.class
+ 180/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DriverError.class
+ 181/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DriverJDBCVersion.class
+ 182/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Encoding.class
+ 183/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/EncryptionKeyInfo.class
+ 184/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FailoverInfo.class
+ 185/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FailoverMapSingleton.class
+ 186/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FedAuthDllInfo.class
+ 187/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/GregorianChange.class
+ 188/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerBulkRecord.class
+ 189/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerCallableStatement.class
+ 190/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerConnection.class
+ 191/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerDataRecord.class
+ 192/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerDataSource.class
+ 193/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerPreparedStatement.class
+ 194/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerResultSet.class
+ 195/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerStatement.class
+ 196/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/InputStreamGetterArgs.class
+ 197/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnFilter$1.class
+ 198/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnFilter.class
+ 199/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnIdentityFilter$1.class
+ 200/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnIdentityFilter.class
+ 201/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator$1.class
+ 202/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator$State.class
+ 203/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator.class
+ 204/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$1.class
+ 205/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$Category.class
+ 206/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$NormalizationAE.class
+ 207/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$SetterConversion.class
+ 208/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$UpdaterConversion.class
+ 209/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType.class
+ 210/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$1.class
+ 211/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$2.class
+ 212/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$SetterConversionAE.class
+ 213/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType.class
+ 214/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication$1.class
+ 215/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication$1SQLJDBCDriverConfig.class
+ 216/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication.class
+ 217/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KeyStoreAuthentication.class
+ 218/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KeyStoreProviderCommon.class
+ 219/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KeyVaultCredential.class
+ 220/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalDate.class
+ 221/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalDateTime.class
+ 222/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalTime.class
+ 223/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Nanos.class
+ 224/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/OffsetDateTime.class
+ 225/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/OffsetTime.class
+ 226/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/PLPInputStream.class
+ 227/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/PLPXMLInputStream.class
+ 228/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter$1.class
+ 229/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter$GetTypeDefinitionOp.class
+ 230/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter.class
+ 231/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ParameterUtils.class
+ 232/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ReaderInputStream.class
+ 233/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/RowType.class
+ 234/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation$SortOrder.class
+ 235/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation$WindowsLocale.class
+ 236/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation.class
+ 237/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLIdentifier.class
+ 238/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLJdbcVersion.class
+ 239/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256Algorithm.class
+ 240/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256EncryptionKey.class
+ 241/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256Factory.class
+ 242/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBlob.class
+ 243/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBlobOutputStream.class
+ 244/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCSVFileRecord$ColumnMetadata.class
+ 245/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCSVFileRecord.class
+ 246/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$1.class
+ 247/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$1InsertBulk.class
+ 248/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$BulkColumnMetaData.class
+ 249/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$BulkTimeoutTimer.class
+ 250/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$ColumnMapping.class
+ 251/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy.class
+ 252/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopyOptions.class
+ 253/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1ExecDoneHandler.class
+ 254/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1OutParamHandler.class
+ 255/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1ThreePartNamesParser.class
+ 256/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement.class
+ 257/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClob.class
+ 258/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobAsciiOutputStream.class
+ 259/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobBase.class
+ 260/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobWriter.class
+ 261/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionAzureKeyVaultProvider.class
+ 262/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionCertificateStoreProvider.class
+ 263/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionJavaKeyStoreProvider.class
+ 264/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionKeyStoreProvider.class
+ 265/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1.class
+ 266/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1ConnectionCommand.class
+ 267/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1DTCCommand.class
+ 268/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1LogonProcessor.class
+ 269/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$2.class
+ 270/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$ActiveDirectoryAuthentication.class
+ 271/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$FedAuthTokenCommand.class
+ 272/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$FederatedAuthenticationFeatureExtensionData.class
+ 273/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$LogonCommand.class
+ 274/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$SqlFedAuthInfo.class
+ 275/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$SqlFedAuthToken.class
+ 276/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$State.class
+ 277/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection.class
+ 278/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolDataSource$SerializationProxy.class
+ 279/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolDataSource.class
+ 280/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolProxy$1.class
+ 281/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolProxy.class
+ 282/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionSecurityManager.class
+ 283/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataColumn.class
+ 284/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSource$SerializationProxy.class
+ 285/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSource.class
+ 286/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSourceObjectFactory.class
+ 287/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataTable$1.class
+ 288/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataTable.class
+ 289/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData$CallableHandles.class
+ 290/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData$HandleAssociation.class
+ 291/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData.class
+ 292/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriver.class
+ 293/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverBooleanProperty.class
+ 294/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverIntProperty.class
+ 295/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverPropertyInfo.class
+ 296/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverStringProperty.class
+ 297/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithm.class
+ 298/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithmFactory.class
+ 299/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithmFactoryList.class
+ 300/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionType.class
+ 301/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEntityResolver.class
+ 302/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerException.class
+ 303/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerKeyVaultAuthenticationCallback.class
+ 304/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerMetaData.class
+ 305/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerNClob.class
+ 306/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData$MetaInfo.class
+ 307/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData$QueryMeta.class
+ 308/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData.class
+ 309/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPooledConnection.class
+ 310/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1.class
+ 311/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1PrepStmtExecOutParamHandler.class
+ 312/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1PreparedHandleClose.class
+ 313/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$PrepStmtBatchExecCmd.class
+ 314/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$PrepStmtExecCmd.class
+ 315/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement.class
+ 316/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource.class
+ 317/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_de.class
+ 318/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_es.class
+ 319/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_fr.class
+ 320/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_it.class
+ 321/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ja.class
+ 322/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ko.class
+ 323/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_pt_BR.class
+ 324/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ru.class
+ 325/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_sv.class
+ 326/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_zh_CN.class
+ 327/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_zh_TW.class
+ 328/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1.class
+ 329/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1ClientCursorInitializer.class
+ 330/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1CloseServerCursorCommand.class
+ 331/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1CursorInitializer.class
+ 332/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1DeleteRowRPC.class
+ 333/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1InsertRowRPC.class
+ 334/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1ServerCursorInitializer.class
+ 335/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1UpdateRowRPC.class
+ 336/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$CursorFetchCommand.class
+ 337/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$FetchBuffer$FetchBufferTokenHandler.class
+ 338/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$FetchBuffer.class
+ 339/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet.class
+ 340/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSetMetaData$1.class
+ 341/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSetMetaData.class
+ 342/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSQLXML.class
+ 343/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSavepoint.class
+ 344/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSecurityUtility.class
+ 345/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSortOrder.class
+ 346/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$1NextResult.class
+ 347/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$ExecuteProperties.class
+ 348/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtBatchExecCmd.class
+ 349/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtExecCmd.class
+ 350/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtExecOutParamHandler.class
+ 351/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement.class
+ 352/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatementColumnEncryptionSetting.class
+ 353/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKey.class
+ 354/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKeyCache$1.class
+ 355/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKeyCache.class
+ 356/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXAConnection.class
+ 357/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXADataSource$SerializationProxy.class
+ 358/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXADataSource.class
+ 359/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXAResource.class
+ 360/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLState.class
+ 361/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLType.class
+ 362/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSLenType.class
+ 363/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSPIAuthentication.class
+ 364/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType$Category.class
+ 365/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType$GetterConversion.class
+ 366/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType.class
+ 367/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ScrollWindow.class
+ 368/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerDTVImpl$1.class
+ 369/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerDTVImpl.class
+ 370/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerPortPlaceHolder.class
+ 371/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SimpleInputStream.class
+ 372/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketConnector.class
+ 373/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketFinder$Result.class
+ 374/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketFinder.class
+ 375/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SqlAuthentication.class
+ 376/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamColInfo.class
+ 377/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamColumns.class
+ 378/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamDone.class
+ 379/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamError.class
+ 380/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamInfo.class
+ 381/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamLoginAck.class
+ 382/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamPacket.class
+ 383/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamRetStatus.class
+ 384/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamRetValue.class
+ 385/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamSSPI.class
+ 386/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamSetterArgs.class
+ 387/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamTabName.class
+ 388/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamType.class
+ 389/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDS.class
+ 390/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$HostNameOverrideX509TrustManager.class
+ 391/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$PermissiveX509TrustManager.class
+ 392/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxyInputStream.class
+ 393/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxyOutputStream.class
+ 394/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxySocket.class
+ 395/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandhsakeState.class
+ 396/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandshakeInputStream.class
+ 397/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandshakeOutputStream.class
+ 398/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel.class
+ 399/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSCommand.class
+ 400/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSPacket.class
+ 401/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSParser.class
+ 402/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReader$1.class
+ 403/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReader.class
+ 404/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReaderMark.class
+ 405/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSTokenHandler.class
+ 406/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSType.class
+ 407/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter$1.class
+ 408/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter$TdsOrderUnique.class
+ 409/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter.class
+ 410/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP$1.class
+ 411/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP$MPIState.class
+ 412/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP.class
+ 413/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVPType.class
+ 414/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TemporalAccessor.class
+ 415/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TemporalCompatibility.class
+ 416/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TimeoutTimer.class
+ 417/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$1.class
+ 418/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$1.class
+ 419/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$10.class
+ 420/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$11.class
+ 421/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$12.class
+ 422/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$13.class
+ 423/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$14.class
+ 424/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$15.class
+ 425/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$16.class
+ 426/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$2.class
+ 427/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$3.class
+ 428/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$4.class
+ 429/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$5.class
+ 430/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$6.class
+ 431/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$7.class
+ 432/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$8.class
+ 433/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$9.class
+ 434/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$BigOrSmallByteLenStrategy.class
+ 435/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$DecimalNumericStrategy.class
+ 436/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$FixedLenStrategy.class
+ 437/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$KatmaiScaledTemporalStrategy.class
+ 438/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$Strategy.class
+ 439/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder.class
+ 440/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo.class
+ 441/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UDTTDSHeader.class
+ 442/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UTC.class
+ 443/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UninterruptableTDSCommand.class
+ 444/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UserTypes.class
+ 445/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Util$1.class
+ 446/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Util.class
+ 447/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XAReturnValue.class
+ 448/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XMLTDSHeader.class
+ 449/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XidImpl.class
+ 450/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ZeroFixupFilter.class
+ 451/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ZoneOffset.class
+ 452/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/format.class
+ 453/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset$1.class
+ 454/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset$SerializationProxy.class
+ 455/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset.class
+ 456/758: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/Types.class
+
+List of absent classes:
+  org/apache/http/message/BasicHeader
+  com/microsoft/azure/keyvault/authentication/KeyVaultCredentials
+  com/microsoft/windowsazure/core/pipeline/filter/ServiceRequestContext
+  org/apache/http/Header
+  org/apache/http/impl/client/HttpClientBuilder
+  com/microsoft/azure/keyvault/KeyVaultClientImpl
+  com/microsoft/windowsazure/credentials/CloudCredentials
+  com/microsoft/azure/keyvault/KeyVaultClient
+  com/microsoft/azure/keyvault/models/KeyOperationResult
+  com/microsoft/azure/keyvault/models/KeyBundle
+  com/microsoft/azure/keyvault/webkey/JsonWebKey
+
+List of classes with absent superclass or superinterface:
+  com/microsoft/sqlserver/jdbc/KeyVaultCredential 
+	superclass com/microsoft/azure/keyvault/authentication/KeyVaultCredentials
+-------------------------------------------------------------------
+files: 456  errors: 0  warnings: 0  notices: 0
+
+Writing dependencies info ...
+
+--------------------  Inline Planning Stage  -----------------------------------
+                    
+
+-------------------------------------------------------------------
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 455/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/Types.class
+errors(0), warnings(0), notes(0); bytes(4448), time  0.40
+  0% done, 454/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UserTypes.class
+errors(0), warnings(0), notes(0); bytes(3989), time  0.01
+  0% done, 453/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXADataSource$SerializationProxy.class
+errors(0), warnings(0), notes(0); bytes(5860), time 89.16
+  0% done, 452/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXADataSource.class
+errors(0), warnings(0), notes(0); bytes(23938), time  4.01
+  0% done, 451/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XidImpl.class
+errors(0), warnings(0), notes(0); bytes(8722), time  0.52
+  1% done, 450/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XAReturnValue.class
+errors(0), warnings(0), notes(0); bytes(4245), time  0.02
+  1% done, 449/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXAResource.class
+errors(0), warnings(0), notes(0); bytes(58179), time 10.17
+  1% done, 448/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerXAConnection.class
+errors(0), warnings(0), notes(0); bytes(11740), time  0.49
+  1% done, 447/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_zh_TW.class
+errors(0), warnings(0), notes(0); bytes(169380), time  2.34
+  1% done, 446/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_zh_CN.class
+errors(0), warnings(0), notes(0); bytes(168800), time  1.96
+  2% done, 445/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_sv.class
+errors(0), warnings(0), notes(0); bytes(174424), time  2.04
+  2% done, 444/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ru.class
+errors(0), warnings(0), notes(0); bytes(195536), time  1.97
+  2% done, 443/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_pt_BR.class
+errors(0), warnings(0), notes(0); bytes(176478), time  1.94
+  2% done, 442/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ko.class
+errors(0), warnings(0), notes(0); bytes(178753), time  1.95
+  3% done, 441/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_ja.class
+errors(0), warnings(0), notes(0); bytes(182488), time  2.00
+  3% done, 440/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_it.class
+errors(0), warnings(0), notes(0); bytes(177150), time  1.97
+  3% done, 439/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_fr.class
+errors(0), warnings(0), notes(0); bytes(179817), time  2.08
+  3% done, 438/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_es.class
+errors(0), warnings(0), notes(0); bytes(177637), time  1.96
+  3% done, 437/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource_de.class
+errors(0), warnings(0), notes(0); bytes(178861), time  2.51
+  4% done, 436/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSourceObjectFactory.class
+errors(0), warnings(0), notes(0); bytes(9085), time  0.29
+  4% done, 435/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolDataSource.class
+errors(0), warnings(0), notes(0); bytes(21452), time  0.30
+  4% done, 434/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolDataSource$SerializationProxy.class
+errors(0), warnings(0), notes(0); bytes(5910), time  0.02
+  4% done, 433/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionAzureKeyVaultProvider.class
+errors(0), warnings(0), notes(0); bytes(40940), time  2.38
+  5% done, 432/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$BulkColumnMetaData.class
+errors(0), warnings(0), notes(0); bytes(10342), time  0.15
+  5% done, 431/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$1InsertBulk.class
+errors(0), warnings(0), notes(0); bytes(8544), time  4.66
+  5% done, 430/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$ColumnMapping.class
+errors(0), warnings(0), notes(0); bytes(7162), time  0.03
+  5% done, 429/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopyOptions.class
+errors(0), warnings(0), notes(0); bytes(12723), time  0.19
+  5% done, 428/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$BulkTimeoutTimer.class
+errors(0), warnings(0), notes(0); bytes(11199), time  0.18
+  6% done, 427/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy.class
+errors(0), warnings(0), notes(0); bytes(156959), time 21.55
+  6% done, 426/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCopy$1.class
+errors(0), warnings(0), notes(0); bytes(16339), time  0.09
+  6% done, 425/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCSVFileRecord.class
+errors(0), warnings(0), notes(0); bytes(51991), time  7.33
+  6% done, 424/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBulkCSVFileRecord$ColumnMetadata.class
+errors(0), warnings(0), notes(0); bytes(4745), time  0.01
+  7% done, 423/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLJdbcVersion.class
+errors(0), warnings(0), notes(0); bytes(4544), time  0.03
+  7% done, 422/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerKeyVaultAuthenticationCallback.class
+errors(0), warnings(0), notes(0); bytes(2408), time  0.03
+  7% done, 421/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerBulkRecord.class
+errors(0), warnings(0), notes(0); bytes(3497), time  0.00
+  7% done, 420/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$SetterConversion.class
+errors(0), warnings(0), notes(0); bytes(39739), time  0.30
+  7% done, 419/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$UpdaterConversion.class
+errors(0), warnings(0), notes(0); bytes(44578), time  0.14
+  8% done, 418/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$NormalizationAE.class
+errors(0), warnings(0), notes(0); bytes(40772), time  0.13
+  8% done, 417/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$1.class
+errors(0), warnings(0), notes(0); bytes(6582), time  0.31
+  8% done, 416/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType$GetterConversion.class
+errors(0), warnings(0), notes(0); bytes(37717), time  0.16
+  8% done, 415/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FailoverMapSingleton.class
+errors(0), warnings(0), notes(0); bytes(12166), time  0.35
+  9% done, 414/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$ActiveDirectoryAuthentication.class
+errors(0), warnings(0), notes(0); bytes(6383), time  0.01
+  9% done, 413/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$2.class
+errors(0), warnings(0), notes(0); bytes(6688), time  0.17
+  9% done, 412/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionCertificateStoreProvider.class
+errors(0), warnings(0), notes(0); bytes(28952), time  1.05
+  9% done, 411/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSavepoint.class
+errors(0), warnings(0), notes(0); bytes(8474), time  0.21
+  9% done, 410/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamSSPI.class
+errors(0), warnings(0), notes(0); bytes(6627), time  0.08
+ 10% done, 409/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamLoginAck.class
+errors(0), warnings(0), notes(0); bytes(7330), time  0.09
+ 10% done, 408/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1LogonProcessor.class
+errors(0), warnings(0), notes(0); bytes(9481), time  0.11
+ 10% done, 407/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1DTCCommand.class
+errors(0), warnings(0), notes(0); bytes(8351), time  0.07
+ 10% done, 406/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$SqlFedAuthInfo.class
+errors(0), warnings(0), notes(0); bytes(6363), time  0.06
+ 10% done, 405/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication$1SQLJDBCDriverConfig.class
+errors(0), warnings(0), notes(0); bytes(12761), time  0.24
+ 11% done, 404/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication$1.class
+errors(0), warnings(0), notes(0); bytes(6432), time  0.09
+ 11% done, 403/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KerbAuthentication.class
+errors(0), warnings(0), notes(0); bytes(25062), time  0.84
+ 11% done, 402/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DLLException.class
+errors(0), warnings(0), notes(0); bytes(16780), time  0.39
+ 11% done, 401/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSPIAuthentication.class
+errors(0), warnings(0), notes(0); bytes(3919), time  0.00
+ 12% done, 400/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FedAuthDllInfo.class
+errors(0), warnings(0), notes(0); bytes(4300), time  0.01
+ 12% done, 399/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AuthenticationJNI.class
+errors(0), warnings(0), notes(0); bytes(26691), time  0.46
+ 12% done, 398/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnIdentityFilter$1.class
+errors(0), warnings(0), notes(0); bytes(6592), time  0.22
+ 12% done, 397/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnIdentityFilter.class
+errors(0), warnings(0), notes(0); bytes(8617), time  0.19
+ 12% done, 396/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerCallableStatement.class
+errors(0), warnings(0), notes(0); bytes(8850), time  0.03
+ 13% done, 395/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1.class
+errors(0), warnings(0), notes(0); bytes(6120), time  0.12
+ 13% done, 394/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerPreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(7670), time  0.01
+ 13% done, 393/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ZeroFixupFilter.class
+errors(0), warnings(0), notes(0); bytes(4172), time  0.02
+ 13% done, 392/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnFilter$1.class
+errors(0), warnings(0), notes(0); bytes(7003), time  0.30
+ 14% done, 391/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/IntColumnFilter.class
+errors(0), warnings(0), notes(0); bytes(6051), time  0.35
+ 14% done, 390/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypeFilter.class
+errors(0), warnings(0), notes(0); bytes(7339), time  0.18
+ 14% done, 389/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData$MetaInfo.class
+errors(0), warnings(0), notes(0); bytes(4139), time  0.01
+ 14% done, 388/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData$QueryMeta.class
+errors(0), warnings(0), notes(0); bytes(4924), time  0.01
+ 14% done, 387/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerParameterMetaData.class
+errors(0), warnings(0), notes(0); bytes(52951), time  3.17
+ 15% done, 386/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$PrepStmtBatchExecCmd.class
+errors(0), warnings(0), notes(0); bytes(7107), time  0.04
+ 15% done, 385/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DescribeParameterEncryptionResultSet2.class
+errors(0), warnings(0), notes(0); bytes(10440), time  0.16
+ 15% done, 384/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DescribeParameterEncryptionResultSet1.class
+errors(0), warnings(0), notes(0); bytes(11304), time  0.19
+ 15% done, 383/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1PrepStmtExecOutParamHandler.class
+errors(0), warnings(0), notes(0); bytes(9631), time  0.08
+ 16% done, 382/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$PrepStmtExecCmd.class
+errors(0), warnings(0), notes(0); bytes(6848), time  0.04
+ 16% done, 381/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement$1PreparedHandleClose.class
+errors(0), warnings(0), notes(0); bytes(6787), time  0.06
+ 16% done, 380/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPreparedStatement.class
+errors(0), warnings(0), notes(0); bytes(222540), time 13.81
+ 16% done, 379/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1ThreePartNamesParser.class
+errors(0), warnings(0), notes(0); bytes(8244), time  0.08
+ 16% done, 378/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1OutParamHandler.class
+errors(0), warnings(0), notes(0); bytes(7309), time  0.03
+ 17% done, 377/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement$1ExecDoneHandler.class
+errors(0), warnings(0), notes(0); bytes(6788), time  0.05
+ 17% done, 376/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerCallableStatement.class
+errors(0), warnings(0), notes(0); bytes(272326), time 16.72
+ 17% done, 375/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData$HandleAssociation.class
+errors(0), warnings(0), notes(0); bytes(5172), time  0.14
+ 17% done, 374/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerStatement.class
+errors(0), warnings(0), notes(0); bytes(3984), time  0.00
+ 18% done, 373/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtExecOutParamHandler.class
+errors(0), warnings(0), notes(0); bytes(8369), time  0.17
+ 18% done, 372/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamInfo.class
+errors(0), warnings(0), notes(0); bytes(6413), time  0.18
+ 18% done, 371/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$1NextResult.class
+errors(0), warnings(0), notes(0); bytes(12820), time  0.34
+ 18% done, 370/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator$1.class
+errors(0), warnings(0), notes(0); bytes(8098), time  0.62
+ 18% done, 369/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator$State.class
+errors(0), warnings(0), notes(0); bytes(10611), time  0.60
+ 19% done, 368/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCSyntaxTranslator.class
+errors(0), warnings(0), notes(0); bytes(24555), time  0.92
+ 19% done, 367/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtExecCmd.class
+errors(0), warnings(0), notes(0); bytes(6809), time  0.06
+ 19% done, 366/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter$1.class
+errors(0), warnings(0), notes(0); bytes(17712), time  1.31
+ 19% done, 365/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter$GetTypeDefinitionOp.class
+errors(0), warnings(0), notes(0); bytes(50975), time  2.72
+ 20% done, 364/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLType.class
+errors(0), warnings(0), notes(0); bytes(2224), time  0.00
+ 20% done, 363/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1.class
+errors(0), warnings(0), notes(0); bytes(6008), time  0.59
+ 20% done, 362/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerResultSet.class
+errors(0), warnings(0), notes(0); bytes(9788), time  0.00
+ 20% done, 361/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1CloseServerCursorCommand.class
+errors(0), warnings(0), notes(0); bytes(6601), time  0.13
+ 20% done, 360/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$CursorFetchCommand.class
+errors(0), warnings(0), notes(0); bytes(7853), time  0.19
+ 21% done, 359/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1DeleteRowRPC.class
+errors(0), warnings(0), notes(0); bytes(5180), time  0.02
+ 21% done, 358/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1UpdateRowRPC.class
+errors(0), warnings(0), notes(0); bytes(5180), time  0.02
+ 21% done, 357/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1InsertRowRPC.class
+errors(0), warnings(0), notes(0); bytes(5276), time  0.09
+ 21% done, 356/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSetMetaData$1.class
+errors(0), warnings(0), notes(0); bytes(10118), time  0.37
+ 21% done, 355/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSetMetaData.class
+errors(0), warnings(0), notes(0); bytes(29134), time  1.19
+ 22% done, 354/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ScrollWindow.class
+errors(0), warnings(0), notes(0); bytes(14879), time  0.58
+ 22% done, 353/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$FetchBuffer$FetchBufferTokenHandler.class
+errors(0), warnings(0), notes(0); bytes(12806), time  0.30
+ 22% done, 352/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$FetchBuffer.class
+errors(0), warnings(0), notes(0); bytes(13989), time  0.31
+ 22% done, 351/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1ServerCursorInitializer.class
+errors(0), warnings(0), notes(0); bytes(8169), time  0.05
+ 23% done, 350/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1CursorInitializer.class
+errors(0), warnings(0), notes(0); bytes(7264), time  0.17
+ 23% done, 349/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet$1ClientCursorInitializer.class
+errors(0), warnings(0), notes(0); bytes(8244), time  0.11
+ 23% done, 348/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/RowType.class
+errors(0), warnings(0), notes(0); bytes(7717), time  0.17
+ 23% done, 347/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResultSet.class
+errors(0), warnings(0), notes(0); bytes(405331), time 20.36
+ 23% done, 346/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamTabName.class
+errors(0), warnings(0), notes(0); bytes(8055), time  0.34
+ 24% done, 345/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamColInfo.class
+errors(0), warnings(0), notes(0); bytes(7948), time  0.11
+ 24% done, 344/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Column$1.class
+errors(0), warnings(0), notes(0); bytes(6866), time  0.30
+ 24% done, 343/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ColumnFilter.class
+errors(0), warnings(0), notes(0); bytes(2931), time  0.17
+ 24% done, 342/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Column.class
+errors(0), warnings(0), notes(0); bytes(31994), time  1.67
+ 25% done, 341/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CekTable.class
+errors(0), warnings(0), notes(0); bytes(5479), time  0.19
+ 25% done, 340/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamColumns.class
+errors(0), warnings(0), notes(0); bytes(14332), time  0.51
+ 25% done, 339/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamRetValue.class
+errors(0), warnings(0), notes(0); bytes(7811), time  0.08
+ 25% done, 338/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Parameter.class
+errors(0), warnings(0), notes(0); bytes(38048), time  1.37
+ 25% done, 337/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$ExecuteProperties.class
+errors(0), warnings(0), notes(0); bytes(5948), time  0.03
+ 26% done, 336/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement$StmtBatchExecCmd.class
+errors(0), warnings(0), notes(0); bytes(6332), time  0.18
+ 26% done, 335/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatement.class
+errors(0), warnings(0), notes(0); bytes(117598), time  7.23
+ 26% done, 334/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData$CallableHandles.class
+errors(0), warnings(0), notes(0); bytes(14049), time  0.46
+ 26% done, 333/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDatabaseMetaData.class
+errors(0), warnings(0), notes(0); bytes(186886), time  5.00
+ 27% done, 332/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1.class
+errors(0), warnings(0), notes(0); bytes(4760), time  0.17
+ 27% done, 331/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$1ConnectionCommand.class
+errors(0), warnings(0), notes(0); bytes(5958), time  0.15
+ 27% done, 330/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/FailoverInfo.class
+errors(0), warnings(0), notes(0); bytes(12988), time  0.63
+ 27% done, 329/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KeyStoreProviderCommon.class
+errors(0), warnings(0), notes(0); bytes(20755), time  1.47
+ 27% done, 328/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CertificateDetails.class
+errors(0), warnings(0), notes(0); bytes(4136), time  0.01
+ 28% done, 327/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionJavaKeyStoreProvider.class
+errors(0), warnings(0), notes(0); bytes(34606), time  1.98
+ 28% done, 326/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionSecurityManager.class
+errors(0), warnings(0), notes(0); bytes(6116), time  0.63
+ 28% done, 325/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerPortPlaceHolder.class
+errors(0), warnings(0), notes(0); bytes(6309), time  0.23
+ 28% done, 324/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$FederatedAuthenticationFeatureExtensionData.class
+errors(0), warnings(0), notes(0); bytes(12054), time  0.27
+ 29% done, 323/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$State.class
+errors(0), warnings(0), notes(0); bytes(8640), time  0.56
+ 29% done, 322/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$LogonCommand.class
+errors(0), warnings(0), notes(0); bytes(5148), time  0.02
+ 29% done, 321/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UninterruptableTDSCommand.class
+errors(0), warnings(0), notes(0); bytes(4365), time  0.08
+ 29% done, 320/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamDone.class
+errors(0), warnings(0), notes(0); bytes(33840), time  1.75
+ 29% done, 319/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamRetStatus.class
+errors(0), warnings(0), notes(0); bytes(6726), time  0.36
+ 30% done, 318/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamPacket.class
+errors(0), warnings(0), notes(0); bytes(4007), time  0.03
+ 30% done, 317/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReader$1.class
+errors(0), warnings(0), notes(0); bytes(6127), time  1.28
+ 30% done, 316/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLIdentifier.class
+errors(0), warnings(0), notes(0); bytes(10701), time  0.77
+ 30% done, 315/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSParser.class
+errors(0), warnings(0), notes(0); bytes(11466), time 12.29
+ 30% done, 314/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Nanos.class
+errors(0), warnings(0), notes(0); bytes(5393), time  0.87
+ 31% done, 313/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ParameterUtils.class
+errors(0), warnings(0), notes(0); bytes(8283), time  0.96
+ 31% done, 312/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter$1.class
+errors(0), warnings(0), notes(0); bytes(15007), time  0.97
+ 31% done, 311/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter$TdsOrderUnique.class
+errors(0), warnings(0), notes(0); bytes(4455), time  0.26
+ 31% done, 310/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$HostNameOverrideX509TrustManager.class
+errors(0), warnings(0), notes(0); bytes(23556), time  2.93
+ 32% done, 309/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$PermissiveX509TrustManager.class
+errors(0), warnings(0), notes(0); bytes(8444), time  0.07
+ 32% done, 308/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandhsakeState.class
+errors(0), warnings(0), notes(0); bytes(8549), time  0.49
+ 32% done, 307/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/KeyStoreAuthentication.class
+errors(0), warnings(0), notes(0); bytes(10500), time  0.11
+ 32% done, 306/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerConnection.class
+errors(0), warnings(0), notes(0); bytes(6332), time  0.22
+ 32% done, 305/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolProxy$1.class
+errors(0), warnings(0), notes(0); bytes(7416), time  0.53
+ 33% done, 304/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnectionPoolProxy.class
+errors(0), warnings(0), notes(0); bytes(59689), time  2.18
+ 33% done, 303/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerDataSource.class
+errors(0), warnings(0), notes(0); bytes(7083), time  0.01
+ 33% done, 302/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSource$SerializationProxy.class
+errors(0), warnings(0), notes(0); bytes(5664), time  0.70
+ 33% done, 301/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverBooleanProperty.class
+errors(0), warnings(0), notes(0); bytes(13397), time  0.59
+ 34% done, 300/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataSource.class
+errors(0), warnings(0), notes(0); bytes(89441), time  6.86
+ 34% done, 299/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerPooledConnection.class
+errors(0), warnings(0), notes(0); bytes(27115), time 41.26
+ 34% done, 298/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverPropertyInfo.class
+errors(0), warnings(0), notes(0); bytes(7114), time  0.08
+ 34% done, 297/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriver.class
+errors(0), warnings(0), notes(0); bytes(57857), time  2.84
+ 34% done, 296/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Util$1.class
+errors(0), warnings(0), notes(0); bytes(17478), time  1.21
+ 35% done, 295/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$SqlFedAuthToken.class
+errors(0), warnings(0), notes(0); bytes(6031), time  0.56
+ 35% done, 294/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEntityResolver.class
+errors(0), warnings(0), notes(0); bytes(5177), time  1.43
+ 35% done, 293/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ByteArrayOutputStreamToInputStream.class
+errors(0), warnings(0), notes(0); bytes(8345), time  0.17
+ 35% done, 292/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerDTVImpl$1.class
+errors(0), warnings(0), notes(0); bytes(18918), time  1.46
+ 36% done, 291/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SimpleInputStream.class
+errors(0), warnings(0), notes(0); bytes(17468), time  2.42
+ 36% done, 290/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/PLPInputStream.class
+errors(0), warnings(0), notes(0); bytes(21083), time  2.04
+ 36% done, 289/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$SetterConversionAE.class
+errors(0), warnings(0), notes(0); bytes(29457), time  3.68
+ 36% done, 288/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithmFactory.class
+errors(0), warnings(0), notes(0); bytes(3380), time  0.94
+ 36% done, 287/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256Algorithm.class
+errors(0), warnings(0), notes(0); bytes(28764), time  7.06
+ 37% done, 286/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256EncryptionKey.class
+errors(0), warnings(0), notes(0); bytes(12607), time  0.51
+ 37% done, 285/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerAeadAes256CbcHmac256Factory.class
+errors(0), warnings(0), notes(0); bytes(14604), time  0.39
+ 37% done, 284/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithmFactoryList.class
+errors(0), warnings(0), notes(0); bytes(14313), time  2.04
+ 37% done, 283/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKeyCache$1.class
+errors(0), warnings(0), notes(0); bytes(5733), time  1.20
+ 38% done, 282/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CacheClear.class
+errors(0), warnings(0), notes(0); bytes(7339), time  0.46
+ 38% done, 281/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKey.class
+errors(0), warnings(0), notes(0); bytes(6525), time  0.06
+ 38% done, 280/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerColumnEncryptionKeyStoreProvider.class
+errors(0), warnings(0), notes(0); bytes(3793), time  0.02
+ 38% done, 279/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSymmetricKeyCache.class
+errors(0), warnings(0), notes(0); bytes(20379), time  1.30
+ 38% done, 278/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSecurityUtility.class
+errors(0), warnings(0), notes(0); bytes(18818), time  1.35
+ 39% done, 277/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/GregorianChange.class
+errors(0), warnings(0), notes(0); bytes(7377), time  0.84
+ 39% done, 276/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DDC$1.class
+errors(0), warnings(0), notes(0); bytes(25713), time  1.33
+ 39% done, 275/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBlobOutputStream.class
+errors(0), warnings(0), notes(0); bytes(8369), time  0.41
+ 39% done, 274/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerBlob.class
+errors(0), warnings(0), notes(0); bytes(34228), time  1.69
+ 40% done, 273/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerNClob.class
+errors(0), warnings(0), notes(0); bytes(15827), time  0.12
+ 40% done, 272/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobWriter.class
+errors(0), warnings(0), notes(0); bytes(12614), time  0.13
+ 40% done, 271/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobAsciiOutputStream.class
+errors(0), warnings(0), notes(0); bytes(8821), time  0.19
+ 40% done, 270/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClobBase.class
+errors(0), warnings(0), notes(0); bytes(33304), time  1.06
+ 40% done, 269/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerClob.class
+errors(0), warnings(0), notes(0); bytes(17165), time  0.15
+ 41% done, 268/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AsciiFilteredUnicodeInputStream.class
+errors(0), warnings(0), notes(0); bytes(14038), time  0.56
+ 41% done, 267/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSPacket.class
+errors(0), warnings(0), notes(0); bytes(6100), time  0.11
+ 41% done, 266/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReaderMark.class
+errors(0), warnings(0), notes(0); bytes(3992), time  0.02
+ 41% done, 265/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/BaseInputStream.class
+errors(0), warnings(0), notes(0); bytes(14196), time  0.24
+ 41% done, 264/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AsciiFilteredInputStream.class
+errors(0), warnings(0), notes(0); bytes(13562), time  0.44
+ 42% done, 263/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DDC.class
+errors(0), warnings(0), notes(0); bytes(66327), time  4.62
+ 42% done, 262/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UTC.class
+errors(0), warnings(0), notes(0); bytes(7958), time  0.07
+ 42% done, 261/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV$1.class
+errors(0), warnings(0), notes(0); bytes(34259), time  2.54
+ 42% done, 260/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypes$1.class
+errors(0), warnings(0), notes(0); bytes(6132), time  0.22
+ 43% done, 259/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DataTypes.class
+errors(0), warnings(0), notes(0); bytes(9943), time  0.13
+ 43% done, 258/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTVExecuteOp.class
+errors(0), warnings(0), notes(0); bytes(8708), time  0.16
+ 43% done, 257/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ReaderInputStream.class
+errors(0), warnings(0), notes(0); bytes(20264), time  0.69
+ 43% done, 256/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV$SendByRPCOp.class
+errors(0), warnings(0), notes(0); bytes(66583), time  4.47
+ 43% done, 255/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamSetterArgs.class
+errors(0), warnings(0), notes(0); bytes(6658), time  0.10
+ 44% done, 254/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTV.class
+errors(0), warnings(0), notes(0); bytes(45914), time  3.38
+ 44% done, 253/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DTVImpl.class
+errors(0), warnings(0), notes(0); bytes(5572), time  0.01
+ 44% done, 252/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ServerDTVImpl.class
+errors(0), warnings(0), notes(0); bytes(51796), time  2.75
+ 44% done, 251/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamType.class
+errors(0), warnings(0), notes(0); bytes(12010), time  0.42
+ 45% done, 250/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/InputStreamGetterArgs.class
+errors(0), warnings(0), notes(0); bytes(5570), time  0.04
+ 45% done, 249/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/PLPXMLInputStream.class
+errors(0), warnings(0), notes(0); bytes(13994), time  2.64
+ 45% done, 248/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSQLXML.class
+errors(0), warnings(0), notes(0); bytes(47664), time  4.82
+ 45% done, 247/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$2.class
+errors(0), warnings(0), notes(0); bytes(7381), time  0.67
+ 45% done, 246/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType$1.class
+errors(0), warnings(0), notes(0); bytes(7777), time  0.27
+ 46% done, 245/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP$1.class
+errors(0), warnings(0), notes(0); bytes(6678), time  0.83
+ 46% done, 244/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP$MPIState.class
+errors(0), warnings(0), notes(0); bytes(9090), time  0.11
+ 46% done, 243/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVPType.class
+errors(0), warnings(0), notes(0); bytes(8113), time  0.28
+ 46% done, 242/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TVP.class
+errors(0), warnings(0), notes(0); bytes(40552), time  7.53
+ 47% done, 241/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ISQLServerDataRecord.class
+errors(0), warnings(0), notes(0); bytes(2970), time  0.01
+ 47% done, 240/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DriverJDBCVersion.class
+errors(0), warnings(0), notes(0); bytes(7112), time  0.65
+ 47% done, 239/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataTable$1.class
+errors(0), warnings(0), notes(0); bytes(13099), time  0.56
+ 47% done, 238/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset$1.class
+errors(0), warnings(0), notes(0); bytes(2971), time  0.05
+ 47% done, 237/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset$SerializationProxy.class
+errors(0), warnings(0), notes(0); bytes(6165), time  0.26
+ 48% done, 236/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/microsoft/sql/DateTimeOffset.class
+errors(0), warnings(0), notes(0); bytes(23338), time  1.08
+ 48% done, 235/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataTable.class
+errors(0), warnings(0), notes(0); bytes(27444), time  7.32
+ 48% done, 234/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/OffsetDateTime.class
+errors(0), warnings(0), notes(0); bytes(5899), time  0.04
+ 48% done, 233/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ChronoField.class
+errors(0), warnings(0), notes(0); bytes(10724), time  0.25
+ 49% done, 232/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DateTimeException.class
+errors(0), warnings(0), notes(0); bytes(6695), time  0.01
+ 49% done, 231/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TemporalAccessor.class
+errors(0), warnings(0), notes(0); bytes(4812), time  0.06
+ 49% done, 230/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/format.class
+errors(0), warnings(0), notes(0); bytes(4123), time  0.11
+ 49% done, 229/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DateTimeFormatter.class
+errors(0), warnings(0), notes(0); bytes(3540), time  0.02
+ 49% done, 228/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/OffsetTime.class
+errors(0), warnings(0), notes(0); bytes(5815), time  0.06
+ 50% done, 227/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalDateTime.class
+errors(0), warnings(0), notes(0); bytes(4185), time  0.02
+ 50% done, 226/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalTime.class
+errors(0), warnings(0), notes(0); bytes(4141), time  0.02
+ 50% done, 225/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/LocalDate.class
+errors(0), warnings(0), notes(0); bytes(4141), time  0.01
+ 50% done, 224/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ZoneOffset.class
+errors(0), warnings(0), notes(0); bytes(4573), time  0.04
+ 50% done, 223/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TemporalCompatibility.class
+errors(0), warnings(0), notes(0); bytes(7166), time  0.09
+ 51% done, 222/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JavaType.class
+errors(0), warnings(0), notes(0); bytes(38997), time  0.73
+ 51% done, 221/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerStatementColumnEncryptionSetting.class
+errors(0), warnings(0), notes(0); bytes(9091), time  0.15
+ 51% done, 220/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDataColumn.class
+errors(0), warnings(0), notes(0); bytes(4751), time  0.03
+ 51% done, 219/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerSortOrder.class
+errors(0), warnings(0), notes(0); bytes(8147), time  0.20
+ 52% done, 218/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerMetaData.class
+errors(0), warnings(0), notes(0); bytes(12748), time  0.21
+ 52% done, 217/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverIntProperty.class
+errors(0), warnings(0), notes(0); bytes(9548), time  0.18
+ 52% done, 216/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ColumnEncryptionSetting.class
+errors(0), warnings(0), notes(0); bytes(10913), time  0.14
+ 52% done, 215/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SqlAuthentication.class
+errors(0), warnings(0), notes(0); bytes(11819), time  0.17
+ 52% done, 214/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AuthenticationScheme.class
+errors(0), warnings(0), notes(0); bytes(10886), time  0.13
+ 53% done, 213/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ApplicationIntent.class
+errors(0), warnings(0), notes(0); bytes(12868), time  0.17
+ 53% done, 212/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerDriverStringProperty.class
+errors(0), warnings(0), notes(0); bytes(24850), time  0.16
+ 53% done, 211/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Util.class
+errors(0), warnings(0), notes(0); bytes(64682), time  4.53
+ 53% done, 210/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketConnector.class
+errors(0), warnings(0), notes(0); bytes(12763), time  0.32
+ 54% done, 209/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketFinder$Result.class
+errors(0), warnings(0), notes(0); bytes(8115), time  0.22
+ 54% done, 208/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SocketFinder.class
+errors(0), warnings(0), notes(0); bytes(55769), time  6.09
+ 54% done, 207/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxyInputStream.class
+errors(0), warnings(0), notes(0); bytes(17695), time  0.89
+ 54% done, 206/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxyOutputStream.class
+errors(0), warnings(0), notes(0); bytes(10762), time  0.25
+ 54% done, 205/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandshakeInputStream.class
+errors(0), warnings(0), notes(0); bytes(16858), time  0.37
+ 55% done, 204/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$SSLHandshakeOutputStream.class
+errors(0), warnings(0), notes(0); bytes(14722), time  0.26
+ 55% done, 203/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel$ProxySocket.class
+errors(0), warnings(0), notes(0); bytes(32887), time  0.75
+ 55% done, 202/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSChannel.class
+errors(0), warnings(0), notes(0); bytes(56495), time  5.67
+ 55% done, 201/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionType.class
+errors(0), warnings(0), notes(0); bytes(11042), time  0.20
+ 56% done, 200/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerEncryptionAlgorithm.class
+errors(0), warnings(0), notes(0); bytes(3437), time  0.02
+ 56% done, 199/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$16.class
+errors(0), warnings(0), notes(0); bytes(4901), time  0.10
+ 56% done, 198/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/XMLTDSHeader.class
+errors(0), warnings(0), notes(0); bytes(4411), time  0.04
+ 56% done, 197/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$15.class
+errors(0), warnings(0), notes(0); bytes(5588), time  0.05
+ 56% done, 196/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/UDTTDSHeader.class
+errors(0), warnings(0), notes(0); bytes(5314), time  0.05
+ 57% done, 195/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$14.class
+errors(0), warnings(0), notes(0); bytes(5767), time  0.08
+ 57% done, 194/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$13.class
+errors(0), warnings(0), notes(0); bytes(5544), time  0.05
+ 57% done, 193/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$12.class
+errors(0), warnings(0), notes(0); bytes(5938), time  0.13
+ 57% done, 192/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$11.class
+errors(0), warnings(0), notes(0); bytes(6395), time  0.12
+ 58% done, 191/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$10.class
+errors(0), warnings(0), notes(0); bytes(6012), time  0.09
+ 58% done, 190/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$9.class
+errors(0), warnings(0), notes(0); bytes(5889), time  0.31
+ 58% done, 189/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$8.class
+errors(0), warnings(0), notes(0); bytes(6296), time  0.10
+ 58% done, 188/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$7.class
+errors(0), warnings(0), notes(0); bytes(5916), time  0.06
+ 58% done, 187/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$6.class
+errors(0), warnings(0), notes(0); bytes(5451), time  0.05
+ 59% done, 186/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$5.class
+errors(0), warnings(0), notes(0); bytes(5882), time  0.08
+ 59% done, 185/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$4.class
+errors(0), warnings(0), notes(0); bytes(5693), time  0.08
+ 59% done, 184/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$3.class
+errors(0), warnings(0), notes(0); bytes(5321), time  0.04
+ 59% done, 183/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDS.class
+errors(0), warnings(0), notes(0); bytes(53112), time  0.23
+ 60% done, 182/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$1.class
+errors(0), warnings(0), notes(0); bytes(6868), time  0.32
+ 60% done, 181/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$KatmaiScaledTemporalStrategy.class
+errors(0), warnings(0), notes(0); bytes(10573), time  0.28
+ 60% done, 180/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$BigOrSmallByteLenStrategy.class
+errors(0), warnings(0), notes(0); bytes(5474), time  0.05
+ 60% done, 179/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$DecimalNumericStrategy.class
+errors(0), warnings(0), notes(0); bytes(5725), time  0.05
+ 60% done, 178/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$2.class
+errors(0), warnings(0), notes(0); bytes(5619), time  0.08
+ 61% done, 177/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$1.class
+errors(0), warnings(0), notes(0); bytes(5124), time  0.05
+ 61% done, 176/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$FixedLenStrategy.class
+errors(0), warnings(0), notes(0); bytes(5738), time  0.04
+ 61% done, 175/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder$Strategy.class
+errors(0), warnings(0), notes(0); bytes(2728), time  0.12
+ 61% done, 174/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo$Builder.class
+errors(0), warnings(0), notes(0); bytes(51470), time  0.75
+ 61% done, 173/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSType.class
+errors(0), warnings(0), notes(0); bytes(31165), time  0.49
+ 62% done, 172/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSLenType.class
+errors(0), warnings(0), notes(0); bytes(8474), time  0.11
+ 62% done, 171/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation$SortOrder.class
+errors(0), warnings(0), notes(0); bytes(92260), time  1.30
+ 62% done, 170/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation$WindowsLocale.class
+errors(0), warnings(0), notes(0); bytes(149346), time  2.55
+ 62% done, 169/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/Encoding.class
+errors(0), warnings(0), notes(0); bytes(17087), time  0.39
+ 63% done, 168/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLCollation.class
+errors(0), warnings(0), notes(0); bytes(16147), time  0.34
+ 63% done, 167/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TypeInfo.class
+errors(0), warnings(0), notes(0); bytes(26285), time  0.48
+ 63% done, 166/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/EncryptionKeyInfo.class
+errors(0), warnings(0), notes(0); bytes(4829), time  0.20
+ 63% done, 165/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CekTableEntry.class
+errors(0), warnings(0), notes(0); bytes(12270), time  0.21
+ 63% done, 164/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/CryptoMetadata.class
+errors(0), warnings(0), notes(0); bytes(10081), time  0.10
+ 64% done, 163/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSWriter.class
+errors(0), warnings(0), notes(0); bytes(133798), time 11.21
+ 64% done, 162/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/DriverError.class
+errors(0), warnings(0), notes(0); bytes(7587), time  0.18
+ 64% done, 161/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLState.class
+errors(0), warnings(0), notes(0); bytes(9390), time  0.12
+ 64% done, 160/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerResource.class
+errors(0), warnings(0), notes(0); bytes(174361), time  0.33
+ 65% done, 159/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerException.class
+errors(0), warnings(0), notes(0); bytes(33002), time  0.85
+ 65% done, 158/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TimeoutTimer.class
+errors(0), warnings(0), notes(0); bytes(10238), time  0.14
+ 65% done, 157/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSCommand.class
+errors(0), warnings(0), notes(0); bytes(30006), time  7.78
+ 65% done, 156/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSReader.class
+errors(0), warnings(0), notes(0); bytes(51895), time  3.00
+ 65% done, 155/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/StreamError.class
+errors(0), warnings(0), notes(0); bytes(8982), time  0.18
+ 66% done, 154/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/TDSTokenHandler.class
+errors(0), warnings(0), notes(0); bytes(12048), time  0.22
+ 66% done, 153/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection$FedAuthTokenCommand.class
+errors(0), warnings(0), notes(0); bytes(5583), time  0.16
+ 66% done, 152/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SQLServerConnection.class
+errors(0), warnings(0), notes(0); bytes(323427), time 24.06
+ 66% done, 151/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType$Category.class
+errors(0), warnings(0), notes(0); bytes(12740), time  0.61
+ 67% done, 150/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/SSType.class
+errors(0), warnings(0), notes(0); bytes(42615), time  0.21
+ 67% done, 149/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType$Category.class
+errors(0), warnings(0), notes(0); bytes(13574), time  0.46
+ 67% done, 148/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/JDBCType.class
+errors(0), warnings(0), notes(0); bytes(53097), time  0.36
+ 67% done, 147/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AppDTVImpl.class
+errors(0), warnings(0), notes(0); bytes(15605), time  0.25
+ 67% done, 146/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/AppDTVImpl$SetValueOp.class
+errors(0), warnings(0), notes(0); bytes(40697), time  2.21
+ 68% done, 145/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityCorrelator.class
+errors(0), warnings(0), notes(0); bytes(6453), time  0.21
+ 68% done, 144/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityId.class
+errors(0), warnings(0), notes(0); bytes(7851), time  0.07
+ 68% done, 143/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\sqljdbc41.jar:/com/microsoft/sqlserver/jdbc/ActivityCorrelator$1.class
+errors(0), warnings(0), notes(0); bytes(6507), time  0.05
+ 68% done, 142/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\AbsoluteLayout.jar:/org/netbeans/lib/awtextra/AbsoluteLayout.class
+errors(0), warnings(0), notes(0); bytes(13547), time  2.73
+ 69% done, 141/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\lib\AbsoluteLayout.jar:/org/netbeans/lib/awtextra/AbsoluteConstraints.class
+errors(0), warnings(0), notes(0); bytes(8986), time  1.02
+ 69% done, 140/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4541), time 22.63
+ 69% done, 139/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$12.class
+errors(0), warnings(0), notes(0); bytes(4426), time  0.04
+ 69% done, 138/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$6.class
+errors(0), warnings(0), notes(0); bytes(4525), time  0.02
+ 69% done, 137/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$3.class
+errors(0), warnings(0), notes(0); bytes(10621), time  0.80
+ 70% done, 136/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$2.class
+errors(0), warnings(0), notes(0); bytes(5009), time  0.08
+ 70% done, 135/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD$1.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.07
+ 70% done, 134/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeInicioLoginBD.class
+errors(0), warnings(0), notes(0); bytes(124586), time  2.45
+ 70% done, 133/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$5.class
+errors(0), warnings(0), notes(0); bytes(4977), time  0.02
+ 70% done, 132/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$4.class
+errors(0), warnings(0), notes(0); bytes(6616), time  0.23
+ 71% done, 131/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$3.class
+errors(0), warnings(0), notes(0); bytes(4977), time  0.04
+ 71% done, 130/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$2.class
+errors(0), warnings(0), notes(0); bytes(4564), time  0.02
+ 71% done, 129/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient$1.class
+errors(0), warnings(0), notes(0); bytes(4777), time  0.06
+ 71% done, 128/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeLoginClient.class
+errors(0), warnings(0), notes(0); bytes(121789), time  1.56
+ 72% done, 127/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$10.class
+errors(0), warnings(0), notes(0); bytes(4506), time  0.03
+ 72% done, 126/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 72% done, 125/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 72% done, 124/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 72% done, 123/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 73% done, 122/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 73% done, 121/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4532), time  0.02
+ 73% done, 120/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(16267), time  0.06
+ 73% done, 119/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(7165), time  0.04
+ 74% done, 118/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(128129), time  0.46
+ 74% done, 117/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeViajeCRUD.class
+errors(0), warnings(0), notes(0); bytes(152708), time  5.34
+ 74% done, 116/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$10.class
+errors(0), warnings(0), notes(0); bytes(4645), time  0.02
+ 74% done, 115/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.02
+ 74% done, 114/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.02
+ 75% done, 113/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.02
+ 75% done, 112/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.02
+ 75% done, 111/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.03
+ 75% done, 110/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.02
+ 76% done, 109/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(16397), time  0.05
+ 76% done, 108/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(7304), time  0.02
+ 76% done, 107/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(128908), time  0.33
+ 76% done, 106/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeReserva_ViajeCRUD.class
+errors(0), warnings(0), notes(0); bytes(155343), time  4.79
+ 76% done, 105/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$10.class
+errors(0), warnings(0), notes(0); bytes(4650), time  0.02
+ 77% done, 104/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.01
+ 77% done, 103/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.02
+ 77% done, 102/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.01
+ 77% done, 101/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.01
+ 78% done, 100/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.01
+ 78% done, 99/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4676), time  0.02
+ 78% done, 98/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(16402), time  0.03
+ 78% done, 97/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(7309), time  0.02
+ 78% done, 96/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(128273), time  0.07
+ 79% done, 95/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMantenimientosCRUD.class
+errors(0), warnings(0), notes(0); bytes(153057), time  3.85
+ 79% done, 94/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$10.class
+errors(0), warnings(0), notes(0); bytes(4586), time  0.02
+ 79% done, 93/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.01
+ 79% done, 92/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.02
+ 80% done, 91/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.02
+ 80% done, 90/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.01
+ 80% done, 89/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.01
+ 80% done, 88/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4612), time  0.02
+ 80% done, 87/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(16342), time  0.04
+ 81% done, 86/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(7245), time  0.02
+ 81% done, 85/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(128434), time  0.11
+ 81% done, 84/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEncomiendaCRUD.class
+errors(0), warnings(0), notes(0); bytes(156001), time  5.33
+ 81% done, 83/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$10.class
+errors(0), warnings(0), notes(0); bytes(4554), time  0.02
+ 81% done, 82/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 82% done, 81/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 82% done, 80/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 82% done, 79/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 82% done, 78/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 83% done, 77/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 83% done, 76/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(16312), time  0.04
+ 83% done, 75/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(7213), time  0.01
+ 83% done, 74/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(128177), time  0.08
+ 83% done, 73/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeUsuariosCRUD.class
+errors(0), warnings(0), notes(0); bytes(146060), time  2.98
+ 84% done, 72/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4589), time  0.02
+ 84% done, 71/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.02
+ 84% done, 70/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.01
+ 84% done, 69/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.02
+ 85% done, 68/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.01
+ 85% done, 67/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.01
+ 85% done, 66/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(4628), time  0.02
+ 85% done, 65/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(16357), time  0.03
+ 85% done, 64/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(7261), time  0.02
+ 86% done, 63/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeTransportesCRUD.class
+errors(0), warnings(0), notes(0); bytes(153113), time  3.65
+ 86% done, 62/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4541), time  0.01
+ 86% done, 61/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 86% done, 60/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 87% done, 59/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 87% done, 58/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 87% done, 57/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 87% done, 56/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 87% done, 55/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(16312), time  0.03
+ 88% done, 54/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(7213), time  0.01
+ 88% done, 53/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeDestinosCRUD.class
+errors(0), warnings(0), notes(0); bytes(139810), time  2.44
+ 88% done, 52/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$9.class
+errors(0), warnings(0), notes(0); bytes(4557), time  0.02
+ 88% done, 51/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.01
+ 89% done, 50/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.01
+ 89% done, 49/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.01
+ 89% done, 48/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.02
+ 89% done, 47/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.01
+ 89% done, 46/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(4596), time  0.02
+ 90% done, 45/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(16327), time  0.03
+ 90% done, 44/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(7229), time  0.02
+ 90% done, 43/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeEmpleadosCRUD.class
+errors(0), warnings(0), notes(0); bytes(146700), time  3.61
+ 90% done, 42/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$11.class
+errors(0), warnings(0), notes(0); bytes(6518), time  0.01
+ 90% done, 41/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$10.class
+errors(0), warnings(0), notes(0); bytes(4465), time  0.02
+ 91% done, 40/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$9.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.02
+ 91% done, 39/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$8.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.01
+ 91% done, 38/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$7.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.02
+ 91% done, 37/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$6.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.01
+ 92% done, 36/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$5.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.02
+ 92% done, 35/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$4.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.01
+ 92% done, 34/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$3.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.01
+ 92% done, 33/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$2.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.02
+ 92% done, 32/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu$1.class
+errors(0), warnings(0), notes(0); bytes(4452), time  0.01
+ 93% done, 31/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeMenu.class
+errors(0), warnings(0), notes(0); bytes(132412), time  2.01
+ 93% done, 30/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$8.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 93% done, 29/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$7.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 93% done, 28/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$6.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 94% done, 27/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$5.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 94% done, 26/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$4.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.02
+ 94% done, 25/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$3.class
+errors(0), warnings(0), notes(0); bytes(4580), time  0.01
+ 94% done, 24/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$2.class
+errors(0), warnings(0), notes(0); bytes(16312), time  0.04
+ 94% done, 23/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD.class
+errors(0), warnings(0), notes(0); bytes(145763), time  3.14
+ 95% done, 22/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Views/JframeClientesCRUD$1.class
+errors(0), warnings(0), notes(0); bytes(7213), time  0.01
+ 95% done, 21/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/ViajeModel.class
+errors(0), warnings(0), notes(0); bytes(8544), time  0.08
+ 95% done, 20/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/ViajeControlador.class
+errors(0), warnings(0), notes(0); bytes(10350), time  0.79
+ 95% done, 19/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/UsuarioModel.class
+errors(0), warnings(0), notes(0); bytes(13280), time  0.29
+ 96% done, 18/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/UsuarioControlador.class
+errors(0), warnings(0), notes(0); bytes(11284), time  0.78
+ 96% done, 17/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/TransporteModel.class
+errors(0), warnings(0), notes(0); bytes(15847), time  0.19
+ 96% done, 16/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/TransporteControlador.class
+errors(0), warnings(0), notes(0); bytes(11171), time  0.95
+ 96% done, 15/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/Reserva_ViajeModel.class
+errors(0), warnings(0), notes(0); bytes(10273), time  0.11
+ 96% done, 14/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/Reserva_ViajeControlador.class
+errors(0), warnings(0), notes(0); bytes(10862), time  0.89
+ 97% done, 13/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/MantenimientoModel.class
+errors(0), warnings(0), notes(0); bytes(9194), time  0.07
+ 97% done, 12/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/MantenimientoControlador.class
+errors(0), warnings(0), notes(0); bytes(10628), time  0.73
+ 97% done, 11/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/EncomiendaModel.class
+errors(0), warnings(0), notes(0); bytes(10859), time  0.10
+ 97% done, 10/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/EncomiendaControlador.class
+errors(0), warnings(0), notes(0); bytes(11025), time  1.51
+ 98% done, 9/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/EmpleadosModel.class
+errors(0), warnings(0), notes(0); bytes(15552), time  0.22
+ 98% done, 8/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/EmpleadosControlador.class
+errors(0), warnings(0), notes(0); bytes(10807), time  1.03
+ 98% done, 7/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/DestinoModel.class
+errors(0), warnings(0), notes(0); bytes(12034), time  0.24
+ 98% done, 6/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/DestinoControlador.class
+errors(0), warnings(0), notes(0); bytes(9785), time  0.55
+ 98% done, 5/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/ClientesModel.class
+errors(0), warnings(0), notes(0); bytes(14768), time  0.23
+ 99% done, 4/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/ClientesControlador.class
+errors(0), warnings(0), notes(0); bytes(10600), time  0.91
+ 99% done, 3/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/WinRegistry.class
+errors(0), warnings(0), notes(0); bytes(39041), time  3.50
+ 99% done, 2/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Model/Conexion.class
+errors(0), warnings(0), notes(0); bytes(12417), time  0.32
+ 99% done, 1/455 to go: ..\..\Documents\NetBeansProjects\ProyectoAdminBD\dist\ProyectoAdminBD.jar:/Controller/BitacoraControlador.class
+errors(0), warnings(0), notes(0); bytes(6525), time  0.11
+Processing startup profile...
+Preparing resources for packing ...
+Processing ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/ProyectoAdminBD.jar ...
+Processing ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/AbsoluteLayout.jar ...
+Processing ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc41.jar ...
+Processing ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc42.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 455  errors: 0  warnings: 0  notices: 0
+
+37 methods were compiled with a lower optimization level
+due to their very large sizes. These methods' names are logged in AgenciaViajes.vaz
+with the "LONGLONGTIME:" prefix.
+
+For more details, see JET User's Guide (Chapter "Application considerations",
+Section "Baseline compilation").
+
+
+XDS Link Version 2.25.42 Copyright (c) Excelsior 1995-2018.
+No errors, no warnings
+
+Link time 0:11.88
+
+Total compilation time 12:07.17
+Startup Accelerator Helper Version 1.2 Copyright (c) Excelsior 2010-2015.
+
+Running application:
+  "C:\Users\Usuario-pc\Documents\NetBeansProjects\ProyectoAdminBD\AgenciaViajes.exe"
+
+
+Application terminated with exit code 0
+Profile successfully hard-wired into "C:\Users\Usuario-pc\Documents\NetBeansProjects\ProyectoAdminBD\AgenciaViajes.exe"
+

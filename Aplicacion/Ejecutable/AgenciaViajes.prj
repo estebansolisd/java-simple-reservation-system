@@ -1,0 +1,61 @@
+%%Excelsior JET v15.3 project file
+
+-jpiiproject=C:\Users\Usuario-pc\Desktop\Exe\AgenciaViajes.jpn
+
+-compilewithfixedheap+
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-pgo+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-jprofile=./AgenciaViajes.jprof
+-main=Views/JframeInicioLoginBD
+-outputdir=../../Documents/NetBeansProjects/ProyectoAdminBD
+-outputname=AgenciaViajes
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-stacklimit=900000
+-startupprofile=./AgenciaViajes.startup
+
+
+
+
+!classpathentry ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/ProyectoAdminBD.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/AbsoluteLayout.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc41.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../../Documents/NetBeansProjects/ProyectoAdminBD/dist/lib/sqljdbc42.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ../../Downloads/world (1).ico
+!module ./AgenciaViajes.usg
+
